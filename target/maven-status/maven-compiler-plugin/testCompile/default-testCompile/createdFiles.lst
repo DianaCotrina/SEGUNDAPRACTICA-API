@@ -1,0 +1,6 @@
+com\nttdata\CucumberTestSuite.class
+com\nttdata\model\Articulo.class
+com\nttdata\steps\ArticuloStep.class
+com\nttdata\glue\CrearOrdenStepsDefs.class
+com\nttdata\glue\ArticuloStepDef.class
+com\nttdata\steps\CrearOrden.class
